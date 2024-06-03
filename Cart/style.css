@@ -1,0 +1,19 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.plant_details{
+    width: 800px;
+    height: 600px;
+    background-color: #aedba5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+.plant-details__container{
+    background-color: white;
+    box-shadow: 0 0 4px 4px rgba(0, 0, 0, 0.25);
+}
